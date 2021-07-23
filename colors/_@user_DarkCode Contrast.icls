@@ -1,0 +1,51 @@
+<scheme name="_@user_DarkCode Contrast" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-06-02T11:00:03</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2020.3.3.0.0</property>
+    <property name="modified">2021-07-15T14:17:38</property>
+    <property name="originalScheme">DarkCode Contrast</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="191919" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="DOCUMENTATION_COLOR" value="0" />
+    <option name="GUTTER_BACKGROUND" value="0" />
+    <option name="INFORMATION_HINT" value="0" />
+    <option name="SELECTION_BACKGROUND" value="412f12" />
+  </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="121205" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="91209" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="120912" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="61111" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="270a0a" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
