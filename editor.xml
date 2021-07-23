@@ -18,8 +18,4 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc;*.java;*.html;*.css;" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
 </application>
