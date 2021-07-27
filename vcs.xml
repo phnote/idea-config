@@ -141,6 +141,14 @@
           <option name="url" value="https://github.com/openai/gym.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/PaddlePaddle/PARL.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/gitlab" />
