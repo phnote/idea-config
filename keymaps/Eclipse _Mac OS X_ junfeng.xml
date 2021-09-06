@@ -91,7 +91,6 @@
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.LightEditGotoOpenedFile">
-    <keyboard-shortcut first-keystroke="f12" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="FileChooser.NewFolder" />
@@ -227,6 +226,9 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
     <keyboard-shortcut first-keystroke="meta 3" />
