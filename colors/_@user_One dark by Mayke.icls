@@ -4,7 +4,7 @@
     <property name="created">2021-06-02T11:36:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-09-06T14:49:17</property>
+    <property name="modified">2021-09-06T15:12:01</property>
     <property name="originalScheme">One dark by Mayke</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.19" />
@@ -142,13 +142,16 @@
     <option name="BRACE_ATTR">
       <value>
         <option name="FOREGROUND" value="37b852" />
-        <option name="BACKGROUND" value="3c3f41" />
+        <option name="BACKGROUND" value="7f806d" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
       </value>
     </option>
     <option name="BRACKET_ATTR">
       <value>
         <option name="FOREGROUND" value="d48b5c" />
         <option name="BACKGROUND" value="3c3f41" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -406,6 +409,13 @@
       <value>
         <option name="FOREGROUND" value="61afef" />
         <option name="EFFECT_COLOR" value="61afef" />
+      </value>
+    </option>
+    <option name="CUSP_BRACKETS_ATTR">
+      <value>
+        <option name="FOREGROUND" value="37b852" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
@@ -1315,8 +1325,9 @@
     </option>
     <option name="PARENTHESIS_ATTR">
       <value>
-        <option name="FOREGROUND" value="eac945" />
+        <option name="FOREGROUND" value="37b852" />
         <option name="BACKGROUND" value="3c3f41" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_ALIAS_REFERENCE">
