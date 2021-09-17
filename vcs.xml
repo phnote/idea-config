@@ -154,7 +154,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.alibaba-inc.com:zebrax/data-lake-mgr.git" />
+          <option name="url" value="git@gitlab.alibaba-inc.com:zebrax/zebrax-admin-antd.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
