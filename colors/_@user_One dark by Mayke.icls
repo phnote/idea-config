@@ -4,7 +4,7 @@
     <property name="created">2021-06-02T11:36:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-10-13T20:08:40</property>
+    <property name="modified">2021-10-13T20:14:58</property>
     <property name="originalScheme">One dark by Mayke</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.19" />
@@ -1330,7 +1330,7 @@
     <option name="PARENTHESIS_ATTR">
       <value>
         <option name="FOREGROUND" value="e0dddd" />
-        <option name="BACKGROUND" value="a960d9" />
+        <option name="BACKGROUND" value="a00df3" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
