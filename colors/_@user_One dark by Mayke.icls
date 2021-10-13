@@ -4,7 +4,7 @@
     <property name="created">2021-06-02T11:36:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-09-17T14:23:31</property>
+    <property name="modified">2021-10-13T20:08:40</property>
     <property name="originalScheme">One dark by Mayke</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.19" />
@@ -141,10 +141,9 @@
     </option>
     <option name="BRACE_ATTR">
       <value>
-        <option name="FOREGROUND" value="7d2030" />
-        <option name="BACKGROUND" value="7f806d" />
+        <option name="FOREGROUND" value="131618" />
+        <option name="BACKGROUND" value="56e291" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
       </value>
     </option>
     <option name="BRACKET_ATTR">
@@ -413,9 +412,9 @@
     </option>
     <option name="CUSP_BRACKETS_ATTR">
       <value>
-        <option name="FOREGROUND" value="37b852" />
+        <option name="FOREGROUND" value="131618" />
+        <option name="BACKGROUND" value="469bd2" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
@@ -707,6 +706,11 @@
     <option name="DOCKER_KEYWORD">
       <value>
         <option name="FOREGROUND" value="61afef" />
+      </value>
+    </option>
+    <option name="DOUBLE_QUOTE_ATTR">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="ce1e3e" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -1325,8 +1329,8 @@
     </option>
     <option name="PARENTHESIS_ATTR">
       <value>
-        <option name="FOREGROUND" value="37b852" />
-        <option name="BACKGROUND" value="3c3f41" />
+        <option name="FOREGROUND" value="e0dddd" />
+        <option name="BACKGROUND" value="a960d9" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
